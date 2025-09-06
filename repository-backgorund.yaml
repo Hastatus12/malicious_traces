@@ -26,7 +26,7 @@
       trace_name: Zeus_0_3448
       trace_uri: malicious_traces/Zeus_0_3448.pcap
     - description: Zeus simple sample
-      trace_name: Zeus_1_3448_5728.pcap
+      trace_name: Zeus_1_3448_5728
       trace_uri: malicious_traces/Zeus_1_3448_5728.pcap
     - description: Zeus simple sample
       trace_name: Zeus_45337_49267
