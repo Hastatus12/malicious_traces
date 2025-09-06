@@ -1,0 +1,63 @@
+---
+    title: Background traffic traces
+    description: Traffic generated from the CIC-IDS2017 dataset
+    creation_date: "2017"
+    version: 1.0
+    traces:
+    - description: Malicious traffic data from malware-traffic-analysis.net
+      trace_name: formbook_2023-06-05
+      trace_uri: malicious_traces/2023-06-05-Formbook-infection.pcap
+    - description: Malicious traffic data from malware-traffic-analysis.net
+      trace_name: formbook_2023-06-06
+      trace_uri: malicious_traces/2023-06-06-Formbook-infection.pcap
+    - description: Malicious traffic data from USTC2016
+      trace_name: Miuref
+      trace_uri: malicious_traces/Miuref.pcap
+    - description: Compressed Miuref data, original data from USTC2016
+      trace_name: Miuref_compressed
+      trace_uri: malicious_traces/Miuref_timecompressed.pcap
+    - description: Malicious traffic data from USTC2016
+      trace_name: Zeus
+      trace_uri: malicious_traces/Zeus.pcap
+    - descritpion: Compressed Zeus data, original data from USTC2016
+      trace_name: Zeus_compressed
+      trace_uri: malicious_traces/Zeus_timecompressed.pcap
+    - description: Malicious Cridex traffic data from USTC2016
+      trace_name: Cridex
+      trace_uri: malicious_traces/Cridex.pcap
+    - description: Compressed Cridex data, original data from USTC2016
+      trace_name: Cridex_compressed
+      trace_uri: malicious_traces/Cridex_timecompressed.pcap
+    - description: trojan.zusy Sdum infection extracted from trace mixer
+      trace_name: sdum
+      trace_uri: malicious_traces/sdum_full.pcap
+    - description: Moiva virus infection extracted from trace mixer
+      trace_name: moiva
+      trace_uri: malicious_traces/moiva_full.pcap
+    - description: Complete DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_full
+      trace_uri: malicious_traces/DOS_total.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_1
+      trace_uri: malicious_traces/DOS_00000_20240225151335.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_2
+      trace_uri: malicious_traces/DOS_00001_20240225151424.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_3
+      trace_uri: malicious_traces/DOS_00002_20240225151439.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_4
+      trace_uri: malicious_traces/DOS_00003_20240225151454.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_5
+      trace_uri: malicious_traces/DOS_00004_20240225151506.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_6
+      trace_uri: malicious_traces/DOS_00005_20240225151520.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_7
+      trace_uri: malicious_traces/DOS_00006_20240225151523.pcap
+    - description: DOS attack PCAP from LSNM2024 Dataset
+      trace_name: DOS_8
+      trace_uri: malicious_traces/DOS_00007_20240225151526.pcap
