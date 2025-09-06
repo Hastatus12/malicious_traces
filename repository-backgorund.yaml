@@ -37,6 +37,9 @@
     - description: Zeus simple sample
       trace_name: Zeus_81745_84245
       trace_uri: malicious_traces/Zeus_81745_84245.pcap
+    - description: Zeus full sample
+      trace_name: Zeus_sample
+      trace_uri: malicious_traces/Zeus_sample_timecompressed.pcap
     - description: Malicious Cridex traffic data from USTC2016
       trace_name: Cridex
       trace_uri: malicious_traces/Cridex.pcap
