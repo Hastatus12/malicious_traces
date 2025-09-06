@@ -22,6 +22,21 @@
     - descritpion: Compressed Zeus data, original data from USTC2016
       trace_name: Zeus_compressed
       trace_uri: malicious_traces/Zeus_timecompressed.pcap
+    - description: Zeus simple sample
+      trace_name: Zeus_0_3448
+      trace_uri: malicious_traces/Zeus_0_3448.pcap
+    - description: Zeus simple sample
+      trace_name: Zeus_1_3448_5728.pcap
+      trace_uri: malicious_traces/Zeus_1_3448_5728.pcap
+    - description: Zeus simple sample
+      trace_name: Zeus_45337_49267
+      trace_uri: malicious_traces/Zeus_45337_49267.pcap
+    - description: Zeus simple sample
+      trace_name: Zeus_78950_81357
+      trace_uri: malicious_traces/Zeus_78950_81357.pcap
+    - description: Zeus simple sample
+      trace_name: Zeus_81745_84245
+      trace_uri: malicious_traces/Zeus_81745_84245.pcap
     - description: Malicious Cridex traffic data from USTC2016
       trace_name: Cridex
       trace_uri: malicious_traces/Cridex.pcap
@@ -34,9 +49,6 @@
     - description: Moiva virus infection extracted from trace mixer
       trace_name: moiva
       trace_uri: malicious_traces/moiva_full.pcap
-    - description: Complete DOS attack PCAP from LSNM2024 Dataset
-      trace_name: DOS_full
-      trace_uri: malicious_traces/DOS_total.pcap
     - description: DOS attack PCAP from LSNM2024 Dataset
       trace_name: DOS_1
       trace_uri: malicious_traces/DOS_00000_20240225151335.pcap
