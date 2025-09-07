@@ -76,3 +76,9 @@
     - description: DOS attack PCAP from LSNM2024 Dataset
       trace_name: DOS_8
       trace_uri: malicious_traces/DOS_00007_20240225151526.pcap
+    - description: Formbook traffic sample from Malware-Traffic-Analysis.net
+      trace_name: formbook_0_5994
+      trace_uri: malicious_traces/formbook_0_5994.pcap
+    - description: Formbook traffic sample from Malware-Traffic-Analysis.net
+      trace_name: formbook_5995_9057
+      trace_uri: malicious_traces/formbook_5995_9057.pcap
