@@ -79,9 +79,7 @@
     - description: Formbook traffic sample from Malware-Traffic-Analysis.net
       trace_name: formbook_0_5994
       trace_uri: malicious_traces/formbook_0_5994.pcap
-      first_packet_ts: 1685989264.055990000
       packets: 5835
-      last_packet_ts: 1685989864.055990000
     - description: Formbook traffic sample from Malware-Traffic-Analysis.net
       trace_name: formbook_5995_9057
       trace_uri: malicious_traces/formbook_5995_9057.pcap
