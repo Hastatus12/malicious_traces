@@ -46,6 +46,9 @@
     - description: Compressed Cridex data, original data from USTC2016
       trace_name: Cridex_compressed
       trace_uri: malicious_traces/Cridex_timecompressed.pcap
+    - description: Cridex sample from USTC2016
+      trace_name: cridex_36_2137
+      trace_uri: malicious_traces/cridex_36_2137.pcap
     - description: trojan.zusy Sdum infection extracted from trace mixer
       trace_name: sdum
       trace_uri: malicious_traces/sdum_full.pcap
